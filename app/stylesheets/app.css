@@ -1,0 +1,62 @@
+#debugging_info{
+    display:none;
+}
+
+body {
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 10%;
+  font-family: "Open Sans", sans-serif;
+  background-color: green;
+  color: white;
+}
+
+label {
+  display: inline-block;
+  width: 1000px;
+}
+
+input {
+  padding: 5px;
+  font-size: 16px;
+}
+
+button {
+  font-size: 16px;
+  padding: 5px;
+}
+
+h1, h2 {
+  display: inline-block;
+  vertical-align: middle;
+  margin-top: 0px;
+  margin-bottom: 10px;
+  color: white;
+}
+
+h2 {
+  color: white;
+  font-size: 32px;
+}
+
+h3 {
+  font-weight: normal;
+  color: white;
+  font-size: 24px;
+}
+
+h4 {
+  color: white;
+}
+
+.black {
+  color: black;
+}
+
+#balance {
+  color: black;
+}
+
+.hint {
+  color: white;
+}
